@@ -1,0 +1,52 @@
+<!-- Footer start -->
+<footer id="footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-info">
+                        <!-- Logo -->
+                        <a href="index.html"><img src="/assets/img/logos/logo-white.png" alt="" class="img-fluid"></a>
+
+                        <!-- Socials -->
+                        <div class="social-links mt-3">
+                            <a href="https://www.instagram.com/sheep.studios/" target="_BLANK" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="https://twitter.com/sheepstudiosllc" target="_BLANK" class="twitter"><i class="bx bxl-twitter"></i></a>
+                            <a href="https://www.facebook.com/sheepstudiosllc" target="_BLANK" class="facebook"><i class="bx bxl-facebook"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-md-6 footer-links">
+                    <h4>Useful Links</h4>
+                    <ul>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/privacy">Privacy policy</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/#contact">Contact Us</a></li>
+                    </ul>
+                </div>
+
+                <!-- Services -->
+                <div class="col-lg-3 col-md-6 footer-links">
+                    <h4>Services</h4>
+                    <ul>
+                        {% if page.permalink == "/" %}
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Licensing</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Publishing</a></li>
+                        {% else %}
+                            <li><i class="bx bx-chevron-right"></i> <a href="/#services">Licensing</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/#services">Publishing</a></li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="copyright">
+            &copy; <script>document.write(new Date().getFullYear())</script>, Sheep Studios, LLC. All Rights Reserved.
+        </div>
+    </div>
+</footer>
+<!-- End Footer -->

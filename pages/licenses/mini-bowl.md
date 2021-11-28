@@ -1,0 +1,27 @@
+---
+layout: single
+title: Mini Bowl Licenses
+permalink: /licenses/mini-bowl
+---
+
+Software used in Mini Bowl for Windows, Mac, Web, Android and iOS THE FOLLOWING SETS FORTH ATTRIBUTION NOTICES FOR THIRD PARTY SOFTWARE THAT MAY BE CONTAINED IN PORTIONS OF THE MINI BOWL PRODUCT.
+
+<hr />
+
+The following software may be included in this product: "Coffe Break" by Rob0ne. A copy of the software may be downloaded from [https://rob0ne.bandcamp.com/track/coffe-break](https://rob0ne.bandcamp.com/track/coffe-break). No modifications were made to the software. The license is available at [https://creativecommons.org/licenses/by/3.0/legalcode](https://creativecommons.org/licenses/by/3.0/legalcode).
+
+<hr />
+
+The following software may be included in this product: "playerprefs_gm" by Ciberman. A copy of the software may be downloaded from [https://marketplace.yoyogames.com/assets/4504/playerprefs_gm](https://marketplace.yoyogames.com/assets/4504/playerprefs_gm). The license is available at [https://marketplace.yoyogames.com/eula](https://marketplace.yoyogames.com/eula).
+
+<hr />
+
+The following software may be included in this product: "HTML5 Loading Spinner" by Ogre Games Ltd. A copy of the software may be downloaded from [https://marketplace.yoyogames.com/assets/630/html5-loading-spinner](https://marketplace.yoyogames.com/assets/630/html5-loading-spinner). The license is available at [https://marketplace.yoyogames.com/eula](https://marketplace.yoyogames.com/eula).
+
+<hr />
+
+The following software may be included in this product: "Pixellari" by Zacchary Dempsey-Plante. A copy of the software may be downloaded from [https://github.com/zedseven/Pixellari](https://github.com/zedseven/Pixellari). The license is available at [https://github.com/zedseven/Pixellari/blob/master/LICENSE](https://github.com/zedseven/Pixellari/blob/master/LICENSE).
+
+<hr />
+
+The following software may be included in this product: "Material Design Icons" by Google LLC. A copy of the software may be downloaded from [https://fonts.google.com/icons?selected=Material+Icons](https://fonts.google.com/icons?selected=Material+Icons). The license is available at [https://www.apache.org/licenses/LICENSE-2.0.html](https://www.apache.org/licenses/LICENSE-2.0.html).
