@@ -12,4 +12,4 @@ permalink: /mini-bowl-playtest
 🤷‍♂️
 
 ### Controls
-Drag to aim, release to bowl! 🎳
+Click and drag to aim, release to bowl! 🎳
