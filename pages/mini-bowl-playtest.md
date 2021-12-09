@@ -8,8 +8,5 @@ permalink: /mini-bowl-playtest
 
 <br />
 
-### Description
-🤷‍♂️
-
 ### Controls
 Click and drag to aim, release to bowl! 🎳
