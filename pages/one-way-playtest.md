@@ -4,7 +4,7 @@ title: One Way Playtest
 permalink: /one-way-playtest
 ---
 
-<iframe src="https://sheepstudios.net/static/one-way/index.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="468px" width="832px" allowfullscreen></iframe>
+<iframe src="https://sheepstudios.net/static/one-way/game/index.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="468px" width="832px" allowfullscreen></iframe>
 
 <br />
 
