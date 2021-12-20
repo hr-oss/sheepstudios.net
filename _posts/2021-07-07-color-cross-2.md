@@ -21,5 +21,5 @@ clients: [Crazygames, Coolmath Games, Y8]
 ---
 
 <a href="https://www.crazygames.com/game/color-cross-2" class="button-normal" target="_BLANK">Crazygames</a>
-<a href="https://www.coolmathgames.com/0-color-cross-2" class="button-normal" target="_BLANK">Coolmath Games (coming soon!)</a>
+<a href="https://www.coolmathgames.com/0-color-cross-2" class="button-normal" target="_BLANK">Coolmath Games</a>
 <a href="https://www.y8.com/games/color_cross_2" class="button-normal" target="_BLANK">Y8</a>
