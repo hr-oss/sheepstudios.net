@@ -2,8 +2,8 @@
 layout: game
 title:  "Mini Bowl"
 category: game
-description: (Coming soon!) Mini Bowl is a top-down puzzle bowling game full of unique and challenging puzzles! Can you knock down all of the pins?
-short_description: (Coming soon!) Can you knock down all of the pins?
+description: Mini Bowl is a top-down puzzle bowling game full of unique and challenging puzzles! Can you knock down all of the pins?
+short_description: an you knock down all of the pins?
 gnere: Puzzle
 
 isWeb: true
