@@ -7,7 +7,7 @@ short_description: A puzzle game with constantly changing platforms- with every 
 gnere: Puzzle
 
 isWeb: true
-isMobile: false
+isMobile: true
 
 permalink: /color-cross-2
 
