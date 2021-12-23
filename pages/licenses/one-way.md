@@ -29,3 +29,7 @@ The following software may be included in this product: "Roboto" by Christian Ro
 <hr />
 
 The following software may be included in this product: "Twemoji" by Twitter, Inc. A copy of the software may be downloaded from [https://twemoji.twitter.com/](https://twemoji.twitter.com/). The license is available at [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
+
+<hr />
+
+The following software may be included in this product: "Exo2" by Natanael Gama. A copy of the software may be downloaded from [https://github.com/NDISCOVER/Exo-2.0](https://github.com/NDISCOVER/Exo-2.0). The license is available at [https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
