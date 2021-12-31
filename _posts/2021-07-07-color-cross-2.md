@@ -20,7 +20,7 @@ img3: color-cross-2/img-3.png
 clients: [Crazygames, Coolmath Games, Y8]
 ---
 
+<a href="https://play.google.com/store/apps/details?id=net.SheepStudios.ColorCross2" class="button-primary" target="_BLANK">Google Play</a>
 <a href="https://www.crazygames.com/game/color-cross-2" class="button-normal" target="_BLANK">Crazygames</a>
 <a href="https://www.coolmathgames.com/0-color-cross-2" class="button-normal" target="_BLANK">Coolmath Games</a>
-<a href="https://sheepstudios.net/color-cross-2" class="button-normal" target="_BLANK">Google Play (Coming Soon!)</a>
 <a href="https://www.y8.com/games/color_cross_2" class="button-normal" target="_BLANK">Y8</a>
