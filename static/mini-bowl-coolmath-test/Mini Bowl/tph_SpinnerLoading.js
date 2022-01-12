@@ -2,7 +2,7 @@ var g_SpinnerTarget = null,
   g_pSpinnerObject = null;
 
 function CustomLoadingSpinner(t, e, i, o, n, r) {
-  r ? t.drawImage(r, 0, 0, e, i) : (t.fillStyle = "rgba(36, 36, 36, 255)", t.fillRect(0, 0, e, i)); // t.fillStyle is set to background color. 38, 22, 114 for purple.
+  r ? t.drawImage(r, 0, 0, e, i) : (t.fillStyle = "rgba(36, 36, 36, 255)", t.fillRect(0, 0, e, i)); // 38, 22, 114
   e = {
     lines: 10,
     length: 16,
@@ -11,7 +11,7 @@ function CustomLoadingSpinner(t, e, i, o, n, r) {
     corners: 1,
     rotate: 0,
     direction: 1,
-    color: "#959595", // Loading spinner
+    color: "#959595",
     speed: 1,
     trail: 60,
     shadow: !1,
