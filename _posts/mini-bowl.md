@@ -1,0 +1,23 @@
+---
+layout: game
+title:  "Mini Bowl"
+category: game
+description: Mini Bowl is a top-down puzzle bowling game full of unique and challenging puzzles! Can you knock down all of the pins?
+short_description: Can you knock down all of the pins?
+gnere: Puzzle
+
+isWeb: true
+isMobile: true
+
+permalink: /mini-bowl
+
+thumbnail: mini-bowl/thumbnail.png
+
+img1: mini-bowl/img-1.png
+img2: mini-bowl/img-2.png
+img3: mini-bowl/img-3.png
+
+clients: []
+---
+
+<a href="" class="button-normal" target="_BLANK">...Coming soon!</a>
