@@ -18,7 +18,7 @@ img1: color-cross/img-1.png
 img2: color-cross/img-2.png
 img3: color-cross/img-3.png
 
-clients: [Armor Games, Addicting Games, CoolMathGames]
+clients: [Armor Games, Addicting Games, Coolmath Games]
 ---
 
 <a href="https://www.addictinggames.com/action/color-cross" class="button-normal" target="_BLANK">Addicting Games</a>

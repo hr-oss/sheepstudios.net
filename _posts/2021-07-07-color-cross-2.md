@@ -4,7 +4,7 @@ title:  "Color Cross 2"
 category: game
 description: Color Cross 2 is a puzzle-arcade game with constantly changing platforms! With every hop, the environment swaps. Can you collect all the stars?
 short_description: A puzzle game with constantly changing platforms- with every hop, the environment swaps!
-gnere: Puzzle
+gnere: Puzzle Platformer
 
 isWeb: true
 isMobile: true
