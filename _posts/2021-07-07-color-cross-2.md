@@ -8,6 +8,7 @@ gnere: Puzzle
 
 isWeb: true
 isMobile: true
+isPublished: false
 
 permalink: /color-cross-2
 

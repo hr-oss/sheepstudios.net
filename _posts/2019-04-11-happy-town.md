@@ -8,6 +8,7 @@ gnere: Isometric Puzzle
 
 isWeb: true
 isMobile: false
+isPublished: false
 
 permalink: /happy-town
 

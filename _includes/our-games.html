@@ -13,6 +13,7 @@
                     <li data-filter="*" class="filter-active">All</li>
                     <li data-filter=".filter-web">HTML5</li>
                     <li data-filter=".filter-app">Mobile</li>
+                    <li data-filter=".filter-published">Published</li>
                 </ul>
             </div>
         </div>
@@ -21,7 +22,7 @@
         <div class="row portfolio-container" data-aos="fade-up">
             {% for post in site.posts %}
                 <!-- Post -->
-                <div class="col-lg-4 col-md-6 portfolio-item {% if post.isWeb == true %}filter-web{% endif %} {% if post.isMobile == true %}filter-app{% endif %}">
+                <div class="col-lg-4 col-md-6 portfolio-item {% if post.isWeb == true %}filter-web{% endif %} {% if post.isMobile == true %}filter-app{% endif %} {% if post.isPublished == true %}filter-published{% endif %}">
                     <div class="portfolio-wrap">
                         <img src="assets/img/portfolio/{{ post.thumbnail }}" class="img-fluid" alt="" />
                         <div class="portfolio-info">

@@ -8,6 +8,7 @@ gnere: Puzzle Platformer
 
 isWeb: true
 isMobile: false
+isPublished: false
 
 permalink: /color-cross
 
