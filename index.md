@@ -2,14 +2,14 @@
 layout: default
 description: We are Sheep Studios, an indie game development company. We offer high quality games for licensing as well as HTMl5 game publishing.
 title: Home
---- 
+---
 
 <!-- Fullscreen hero section start -->
 <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container text-center text-md-left" data-aos="fade-up">
         <h1>👋 Hey, We're Sheep Studios.</h1>
 
-        <h2>For three years, we've been making games for the world to enjoy.</h2>
+        <h2>For five years years, we've been making games for the world to enjoy.</h2>
 
         <a href="#portfolio" class="btn-get-started scrollto">Our Games</a>
     </div>
